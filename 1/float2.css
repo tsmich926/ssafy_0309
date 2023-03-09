@@ -1,0 +1,16 @@
+.box1 {
+  width: 100px;
+  height: 100px;
+  background-color: #cfb5b5;
+  border: 1px solid black;
+
+}
+
+.box2 {
+  background-color: #1bac98;
+  width: 200px;
+}
+
+.left {
+  float:left;
+}
